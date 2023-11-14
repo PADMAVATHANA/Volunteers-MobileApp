@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "984402207533",
+    "firebase_url": "https://bloodservice-dc1b4-default-rtdb.firebaseio.com",
+    "project_id": "bloodservice-dc1b4",
+    "storage_bucket": "bloodservice-dc1b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984402207533:android:f21868aaa21eef673de9a4",
+        "android_client_info": {
+          "package_name": "com.example.voluntrun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984402207533-5e2f89vvblfrrivam7fjc5c5v0lpekuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmvpcBEB6i2vtIYKMO-v-R0SvQofCMmfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984402207533-5e2f89vvblfrrivam7fjc5c5v0lpekuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

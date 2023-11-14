@@ -1,0 +1,570 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:2:1-93:12
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\24489e4143483c8f2c9e0bc7d048fc38\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\f070b6f2cec85b038ad37b1499f44dc3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\2e14331da1ee7105c7f83ab45c2040eb\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\67845e5e4d6e8761a14a1bec828f584f\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\94fdee1585ffdd3dadfc7b9f9811bab6\transformed\firebase-analytics-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:15:1-37:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\923da6631b014d9ae3fafdf5cc0a3df4\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\8dfa0ada4f729d3135b8bc69c49815ec\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c2e7503851360da27a3b6dce07b46cff\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7cd5ae4edc0eb109ad50642fa21d72fa\transformed\firebase-appcheck-interop-16.1.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\54117d2ed20015d3f1bf078d91f48acf\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\eed4543f1f747f50e3856f9f674b3a7a\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\9bf5f6bca997fa5e565d80ee1c654a50\transformed\play-services-measurement-sdk-21.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\65fddc9b8e04ba1766e196c1f0cf269c\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\671db536452cc75718bc01b5d5d69e85\transformed\firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\54835da243d7e34ee4612de5be86eb6e\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\675b8dbe131f28baab48126af079e48c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c424c07ae29cbffcd5da9eba30727ee5\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\4f7e46cc312276024b2756616bf0bf53\transformed\play-services-measurement-base-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\d88d8ee7d88e8827026916fdfb5424bf\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e74087c212c7d4f37dda735b23ff8ec5\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b58d28f220898ad3a8859d6a52f14f36\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c81a3a8d65a2db30fb32cccebc2af10d\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a3f3ec9b2947fc71229c7bd075ae5423\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\9316dee805ca221d4bb6a43e7972a174\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0a912d351feb17a7ba0ee0cfa3be073e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a2fb1a460ccb110a102eee0a74faad08\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\9f3b3610161cfa372afade049d68c265\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\f7bd1baad0cc0a38c9ea4afc9e7ff3ad\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\edade5bc009b501382872d93fc9c7234\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3b28561ba04233c6592712d08778a5a6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\d04c7b7198f5975d555a302f4c86f4b6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\317c1aa87f4978e3e543801a1f594984\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\980902b9963d10ddc60dacbcc61bb414\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fb3e73ac527a3a89e8033c0882402809\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\1bb757281c157e1f7e69f1895074407c\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\93d76a657e49d8fb5f31de98de29bd7b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7870cf197a4031014a3af0f5216318a5\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\434325073906551887b17cc84806fc7c\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b6b1ff1a587f6355930e27c130a0817a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a52fb0d43b972a205027ef1425201058\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\ffd3bd5e1e4dec5c0e2ff066dcd3df78\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7e01564709caff4f87fbc7a93f943cce\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0898be73b08f7b7c41e8fc12d5296967\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7ed1bd732d9f5711e895b5474a12219a\transformed\firebase-components-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\910ddb417b72c053f0fa0533135a2efb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a505922fdd5d0ce1ec69a356046d7d18\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\924b7826fa2c909d61c3e24f8b7e562f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\6811ab6fec523abbe53101fa67a57e7c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\49dedc7d2df9ff666e3eabf74ddd60db\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\8d66b245e25a4424ef75862004b248b1\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\98f4470eea465a0c460c2d8bb536628b\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\36959d4f362e72b1f9717ac3cab756e6\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0ab8d69df20d8629b249c6b4c14ca095\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\39723dfc4797308b96665cd746949ade\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\05373cfd0269f147889e8b328f7f509d\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b82f7c53a709cef241f415e11cba7e4f\transformed\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0a9c1b25a8e7388ae2284746de507d7b\transformed\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\ffdcdccf45154dffbf9b36ecee3f3c2d\transformed\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\846480455295fd69c949c93c1600fb91\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:2:1-93:12
+	package
+		INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:2:1-93:12
+		INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:2:1-93:12
+		INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:2:1-93:12
+		INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c424c07ae29cbffcd5da9eba30727ee5\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c424c07ae29cbffcd5da9eba30727ee5\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:5:5-78
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c424c07ae29cbffcd5da9eba30727ee5\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c424c07ae29cbffcd5da9eba30727ee5\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:6:5-91:19
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\24489e4143483c8f2c9e0bc7d048fc38\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\24489e4143483c8f2c9e0bc7d048fc38\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\f070b6f2cec85b038ad37b1499f44dc3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\f070b6f2cec85b038ad37b1499f44dc3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\94fdee1585ffdd3dadfc7b9f9811bab6\transformed\firebase-analytics-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\94fdee1585ffdd3dadfc7b9f9811bab6\transformed\firebase-analytics-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7cd5ae4edc0eb109ad50642fa21d72fa\transformed\firebase-appcheck-interop-16.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7cd5ae4edc0eb109ad50642fa21d72fa\transformed\firebase-appcheck-interop-16.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\eed4543f1f747f50e3856f9f674b3a7a\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\eed4543f1f747f50e3856f9f674b3a7a\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\9bf5f6bca997fa5e565d80ee1c654a50\transformed\play-services-measurement-sdk-21.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\9bf5f6bca997fa5e565d80ee1c654a50\transformed\play-services-measurement-sdk-21.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\65fddc9b8e04ba1766e196c1f0cf269c\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\65fddc9b8e04ba1766e196c1f0cf269c\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\54835da243d7e34ee4612de5be86eb6e\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\54835da243d7e34ee4612de5be86eb6e\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\675b8dbe131f28baab48126af079e48c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\675b8dbe131f28baab48126af079e48c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\4f7e46cc312276024b2756616bf0bf53\transformed\play-services-measurement-base-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\4f7e46cc312276024b2756616bf0bf53\transformed\play-services-measurement-base-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\d88d8ee7d88e8827026916fdfb5424bf\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\d88d8ee7d88e8827026916fdfb5424bf\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e74087c212c7d4f37dda735b23ff8ec5\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e74087c212c7d4f37dda735b23ff8ec5\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b58d28f220898ad3a8859d6a52f14f36\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b58d28f220898ad3a8859d6a52f14f36\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a52fb0d43b972a205027ef1425201058\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a52fb0d43b972a205027ef1425201058\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\910ddb417b72c053f0fa0533135a2efb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\910ddb417b72c053f0fa0533135a2efb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\924b7826fa2c909d61c3e24f8b7e562f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\924b7826fa2c909d61c3e24f8b7e562f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:14:9-47
+	android:dataExtractionRules
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:8:9-65
+activity#com.example.voluntrun.DisplayBloodService
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:exported
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:17:13-48
+meta-data#android.app.lib_name
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:19:13-21:36
+	android:value
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:21:17-33
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:20:17-52
+activity#com.example.voluntrun.OtherServices
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:exported
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:24:13-42
+activity#com.example.voluntrun.MaterialsNeed
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:31:13-42
+activity#com.example.voluntrun.HumanSupport
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:37:9-43:20
+	android:exported
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:38:13-41
+activity#com.example.voluntrun.UserRequest
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:45:13-40
+activity#com.example.voluntrun.Menu
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:51:9-57:20
+	android:exported
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:52:13-33
+activity#com.example.voluntrun.LoginActivity
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:58:9-70:20
+	android:exported
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:59:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:61:13-65:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:62:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:64:27-74
+activity#com.example.voluntrun.RegisterActivity
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:71:9-77:20
+	android:exported
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:72:13-45
+activity#com.example.voluntrun.MainActivity
+ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:78:9-90:20
+	android:exported
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:80:13-36
+	android:name
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml:79:13-41
+uses-sdk
+INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\24489e4143483c8f2c9e0bc7d048fc38\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\24489e4143483c8f2c9e0bc7d048fc38\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\f070b6f2cec85b038ad37b1499f44dc3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\f070b6f2cec85b038ad37b1499f44dc3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\2e14331da1ee7105c7f83ab45c2040eb\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\2e14331da1ee7105c7f83ab45c2040eb\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\67845e5e4d6e8761a14a1bec828f584f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\67845e5e4d6e8761a14a1bec828f584f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\94fdee1585ffdd3dadfc7b9f9811bab6\transformed\firebase-analytics-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\94fdee1585ffdd3dadfc7b9f9811bab6\transformed\firebase-analytics-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\923da6631b014d9ae3fafdf5cc0a3df4\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\923da6631b014d9ae3fafdf5cc0a3df4\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\8dfa0ada4f729d3135b8bc69c49815ec\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\8dfa0ada4f729d3135b8bc69c49815ec\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c2e7503851360da27a3b6dce07b46cff\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c2e7503851360da27a3b6dce07b46cff\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7cd5ae4edc0eb109ad50642fa21d72fa\transformed\firebase-appcheck-interop-16.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7cd5ae4edc0eb109ad50642fa21d72fa\transformed\firebase-appcheck-interop-16.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\54117d2ed20015d3f1bf078d91f48acf\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\54117d2ed20015d3f1bf078d91f48acf\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\eed4543f1f747f50e3856f9f674b3a7a\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\eed4543f1f747f50e3856f9f674b3a7a\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\9bf5f6bca997fa5e565d80ee1c654a50\transformed\play-services-measurement-sdk-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\9bf5f6bca997fa5e565d80ee1c654a50\transformed\play-services-measurement-sdk-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\65fddc9b8e04ba1766e196c1f0cf269c\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\65fddc9b8e04ba1766e196c1f0cf269c\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\671db536452cc75718bc01b5d5d69e85\transformed\firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\671db536452cc75718bc01b5d5d69e85\transformed\firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\54835da243d7e34ee4612de5be86eb6e\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\54835da243d7e34ee4612de5be86eb6e\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\675b8dbe131f28baab48126af079e48c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\675b8dbe131f28baab48126af079e48c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c424c07ae29cbffcd5da9eba30727ee5\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c424c07ae29cbffcd5da9eba30727ee5\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\4f7e46cc312276024b2756616bf0bf53\transformed\play-services-measurement-base-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\4f7e46cc312276024b2756616bf0bf53\transformed\play-services-measurement-base-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\d88d8ee7d88e8827026916fdfb5424bf\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\d88d8ee7d88e8827026916fdfb5424bf\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e74087c212c7d4f37dda735b23ff8ec5\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e74087c212c7d4f37dda735b23ff8ec5\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b58d28f220898ad3a8859d6a52f14f36\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b58d28f220898ad3a8859d6a52f14f36\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c81a3a8d65a2db30fb32cccebc2af10d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c81a3a8d65a2db30fb32cccebc2af10d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a3f3ec9b2947fc71229c7bd075ae5423\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a3f3ec9b2947fc71229c7bd075ae5423\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\9316dee805ca221d4bb6a43e7972a174\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\9316dee805ca221d4bb6a43e7972a174\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0a912d351feb17a7ba0ee0cfa3be073e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0a912d351feb17a7ba0ee0cfa3be073e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a2fb1a460ccb110a102eee0a74faad08\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a2fb1a460ccb110a102eee0a74faad08\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\9f3b3610161cfa372afade049d68c265\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\9f3b3610161cfa372afade049d68c265\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\f7bd1baad0cc0a38c9ea4afc9e7ff3ad\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\f7bd1baad0cc0a38c9ea4afc9e7ff3ad\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\edade5bc009b501382872d93fc9c7234\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\edade5bc009b501382872d93fc9c7234\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3b28561ba04233c6592712d08778a5a6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3b28561ba04233c6592712d08778a5a6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\d04c7b7198f5975d555a302f4c86f4b6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\d04c7b7198f5975d555a302f4c86f4b6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\317c1aa87f4978e3e543801a1f594984\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\317c1aa87f4978e3e543801a1f594984\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\980902b9963d10ddc60dacbcc61bb414\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\980902b9963d10ddc60dacbcc61bb414\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fb3e73ac527a3a89e8033c0882402809\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fb3e73ac527a3a89e8033c0882402809\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\1bb757281c157e1f7e69f1895074407c\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\1bb757281c157e1f7e69f1895074407c\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\93d76a657e49d8fb5f31de98de29bd7b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\93d76a657e49d8fb5f31de98de29bd7b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7870cf197a4031014a3af0f5216318a5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7870cf197a4031014a3af0f5216318a5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\434325073906551887b17cc84806fc7c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\434325073906551887b17cc84806fc7c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b6b1ff1a587f6355930e27c130a0817a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b6b1ff1a587f6355930e27c130a0817a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a52fb0d43b972a205027ef1425201058\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a52fb0d43b972a205027ef1425201058\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\ffd3bd5e1e4dec5c0e2ff066dcd3df78\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\ffd3bd5e1e4dec5c0e2ff066dcd3df78\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7e01564709caff4f87fbc7a93f943cce\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7e01564709caff4f87fbc7a93f943cce\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0898be73b08f7b7c41e8fc12d5296967\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0898be73b08f7b7c41e8fc12d5296967\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7ed1bd732d9f5711e895b5474a12219a\transformed\firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\7ed1bd732d9f5711e895b5474a12219a\transformed\firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\910ddb417b72c053f0fa0533135a2efb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\910ddb417b72c053f0fa0533135a2efb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a505922fdd5d0ce1ec69a356046d7d18\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a505922fdd5d0ce1ec69a356046d7d18\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\924b7826fa2c909d61c3e24f8b7e562f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\924b7826fa2c909d61c3e24f8b7e562f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\6811ab6fec523abbe53101fa67a57e7c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\6811ab6fec523abbe53101fa67a57e7c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\49dedc7d2df9ff666e3eabf74ddd60db\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\49dedc7d2df9ff666e3eabf74ddd60db\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\8d66b245e25a4424ef75862004b248b1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\8d66b245e25a4424ef75862004b248b1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\98f4470eea465a0c460c2d8bb536628b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\98f4470eea465a0c460c2d8bb536628b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\36959d4f362e72b1f9717ac3cab756e6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\36959d4f362e72b1f9717ac3cab756e6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0ab8d69df20d8629b249c6b4c14ca095\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0ab8d69df20d8629b249c6b4c14ca095\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\39723dfc4797308b96665cd746949ade\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\39723dfc4797308b96665cd746949ade\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\05373cfd0269f147889e8b328f7f509d\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\05373cfd0269f147889e8b328f7f509d\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b82f7c53a709cef241f415e11cba7e4f\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b82f7c53a709cef241f415e11cba7e4f\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0a9c1b25a8e7388ae2284746de507d7b\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\0a9c1b25a8e7388ae2284746de507d7b\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\ffdcdccf45154dffbf9b36ecee3f3c2d\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\ffdcdccf45154dffbf9b36ecee3f3c2d\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\846480455295fd69c949c93c1600fb91\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\846480455295fd69c949c93c1600fb91\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\Voluntrun\Voluntrun\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:30:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:29:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a953a23d1b4d806886f046fef79c742b\transformed\firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\eed4543f1f747f50e3856f9f674b3a7a\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\eed4543f1f747f50e3856f9f674b3a7a\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\eed4543f1f747f50e3856f9f674b3a7a\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\eed4543f1f747f50e3856f9f674b3a7a\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c424c07ae29cbffcd5da9eba30727ee5\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c424c07ae29cbffcd5da9eba30727ee5\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\403e91b4a420aa572d874df8d4938f5a\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:40:13-87
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\3c0bdc2190ec985338de59aa27069b6c\transformed\play-services-measurement-impl-21.2.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\675b8dbe131f28baab48126af079e48c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\675b8dbe131f28baab48126af079e48c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c424c07ae29cbffcd5da9eba30727ee5\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\c424c07ae29cbffcd5da9eba30727ee5\transformed\play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\17dbcd650b4dc7a3c3b13010af2cc656\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\e4b70bccc76229438837990a0f877279\transformed\firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\64bb3b58c1f884cf616366257df37690\transformed\firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b58d28f220898ad3a8859d6a52f14f36\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b58d28f220898ad3a8859d6a52f14f36\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\b58d28f220898ad3a8859d6a52f14f36\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a52fb0d43b972a205027ef1425201058\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a52fb0d43b972a205027ef1425201058\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\910ddb417b72c053f0fa0533135a2efb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\910ddb417b72c053f0fa0533135a2efb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\fa165e5a6d94f31563df5e41a3706fc0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.voluntrun.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.voluntrun.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\72070f802b2044b6703b772c859270e1\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a52fb0d43b972a205027ef1425201058\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a52fb0d43b972a205027ef1425201058\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Downloads\eComerceApp-master\eComerceApp-master\gradle\caches\transforms-3\a52fb0d43b972a205027ef1425201058\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
